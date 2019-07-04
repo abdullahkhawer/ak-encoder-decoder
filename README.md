@@ -12,7 +12,7 @@ Kindly use it and give suggestions for improvements.
 
 -   Python 2.7+ Installed
 -   Pass code used by AK Encoder Decoder is stored in an environment variables. It should be a string. String can have alphabets numbers and special characters. Recommended length is 13 characters to avoid code cracking via brute force attack.
-    To set pass code in Linux via Terminal:
+-   To set pass code in Linux via Terminal:
     Syntax:
     ```console
     $ export AK_ENCODER_DECODER_PASS_KEY="<integer_string>"
@@ -31,7 +31,7 @@ Kindly use it and give suggestions for improvements.
     > set AK_ENCODER_DECODER_PASS_KEY=ABC@123
     ```
 
-### Warning: Share the pass code with whom you want to decode it.
+### Warning: Share the pass code with whom you want to allow to decode your encoded string.
 
 ## Usage Notes
 
