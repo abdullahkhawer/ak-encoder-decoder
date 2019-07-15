@@ -4,9 +4,9 @@
 
 ## Introduction
 
-AK Encoder Decoder is a Python based executable is used for compression and decompression of texts and secrets.
-It works both in Linux and Windows.
+A Python based encoding and decoding tool for texts and secrets with executables provided for Windows and Linux. 
 Kindly use it and give suggestions for improvements.
+Thanks.
 
 ## Prerequisites
 
