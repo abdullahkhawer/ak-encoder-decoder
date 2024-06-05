@@ -4,9 +4,7 @@
 
 ## Introduction
 
-A Python based encoding and decoding tool for texts and secrets with executables provided for Windows and Linux. 
-Kindly use it and give suggestions for improvements.
-Thanks.
+A Python based encoding and decoding tool for texts and secrets with executables provided for Windows and Linux.
 
 ## Prerequisites
 
@@ -31,7 +29,7 @@ Thanks.
     > set AK_ENCODER_DECODER_PASS_KEY=ABC@123
     ```
 
-### Warning: Share the pass code with whom you want to allow to decode your encoded string.
+### Warning: Share the pass code only with the receiver of the encoded messages so that person can decode them.
 
 ## Usage Notes
 
