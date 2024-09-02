@@ -10,9 +10,9 @@ jobs:
     uses: abdullahkhawer/find-and-report-secrets-in-code/.github/workflows/.github-workflow.yml@master
     with:
       CONFLUENCE_ENABLED: "0"
-      SLACK_ENABLED: "1"
       CONFLUENCE_PAGE_TITLE: ${{ vars.CONFLUENCE_PAGE_TITLE }}
       CONFLUENCE_PAGE_SPACE: ${{ vars.CONFLUENCE_PAGE_SPACE }}
+      SLACK_ENABLED: "1"
     secrets:
       CONFLUENCE_SITE: ${{ secrets.CONFLUENCE_SITE }}
       CONFLUENCE_USER_EMAIL_ID: ${{ secrets.CONFLUENCE_USER_EMAIL_ID }}
